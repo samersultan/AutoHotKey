@@ -1,7 +1,9 @@
 **Auto Hot Key Configuration**
 
 By Samer Sultan
+
 http://www.sultansolutions.com
+
 samer@sultansolutions.com
 @sultansol
 
