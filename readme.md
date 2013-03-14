@@ -1,4 +1,4 @@
-Auto Hot Key Configuration
+**Auto Hot Key Configuration**
 
 By Samer Sultan
 http://www.sultansolutions.com
@@ -7,7 +7,20 @@ samer@sultansolutions.com
 
 
 Created: 12 31 2012
-Last Updated: 12 31 2012
+
+Last Updated: 03 14 2013
+
+------------------------------------------
+
+**Update Log:**
+
+03 14 2013: 
+
+* Added trackpad disable while typing lines 83 - 95
+
+* Changed Goolge Search Hot Key from "C" to "G"
+
+
 
 ------------------------------------------
 
